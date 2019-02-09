@@ -134,6 +134,11 @@ player.spigot().sendMessage( ComponentParser.parseFormat(
     player.getName() ) 
 );
 ```
+
+## Maven / Gradle
+Maven:
+Check here for the maven/gradle import instructions: https://bintray.com/rodiconmc/RodiconRepo/FrostLib/1.0.0
+
 ## Javadoc
 
 https://frozenlegend.github.io/docs/FrostLib/
