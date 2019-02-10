@@ -1,0 +1,11 @@
+net.frozenspace.frostlib
+net.frozenspace.frostlib.achievement
+net.frozenspace.frostlib.achievement.adapter
+net.frozenspace.frostlib.command
+net.frozenspace.frostlib.component
+net.frozenspace.frostlib.configuration
+net.frozenspace.frostlib.data
+net.frozenspace.frostlib.gui
+net.frozenspace.frostlib.gui.design
+net.frozenspace.frostlib.gui.exception
+net.frozenspace.frostlib.util
